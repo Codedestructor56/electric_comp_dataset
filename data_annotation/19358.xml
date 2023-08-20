@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data</folder>
+	<filename>19358.jpg</filename>
+	<path>D:\data\19358.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>864</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>voltage regulator</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>396</ymin>
+			<xmax>266</xmax>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LED</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>415</ymin>
+			<xmax>343</xmax>
+			<ymax>483</ymax>
+		</bndbox>
+	</object>
+</annotation>

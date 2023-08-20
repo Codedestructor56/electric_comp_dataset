@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>22248.jpg</filename>
+	<path>D:\data\22248.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>864</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>IC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>404</ymin>
+			<xmax>228</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+</annotation>

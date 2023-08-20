@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>27314.jpg</filename>
+	<path>D:\data\27314.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>864</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ceramic capacitor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>400</ymin>
+			<xmax>258</xmax>
+			<ymax>492</ymax>
+		</bndbox>
+	</object>
+</annotation>

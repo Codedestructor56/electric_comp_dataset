@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>26213.jpg</filename>
+	<path>D:\data\26213.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>864</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LED</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>448</ymin>
+			<xmax>186</xmax>
+			<ymax>548</ymax>
+		</bndbox>
+	</object>
+</annotation>

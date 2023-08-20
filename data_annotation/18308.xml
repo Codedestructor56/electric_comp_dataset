@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data</folder>
+	<filename>18308.jpg</filename>
+	<path>D:\data\18308.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>864</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>capacitor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>467</ymin>
+			<xmax>231</xmax>
+			<ymax>591</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>voltage regulator</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>544</ymin>
+			<xmax>307</xmax>
+			<ymax>664</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>21462.jpg</filename>
+	<path>D:\data\21462.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>864</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>voltage regulator</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>509</ymin>
+			<xmax>261</xmax>
+			<ymax>701</ymax>
+		</bndbox>
+	</object>
+</annotation>
